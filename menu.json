@@ -1,5 +1,5 @@
 {
-  "phone": "+19198188306",
+  "phone": "+19194824064",
   "specials": [
     {
       "name": "Teddy Graham Latte",
@@ -15,12 +15,14 @@
     },
     {
       "name": "Peppermint Cloud Latte",
-      "description": "Cool peppermint with espresso and milk, topped with a fluffy cloud of foam."
+      "description": "Cool peppermint with white chocolate, espresso and milk, topped with a fluffy cloud of foam."
     },
     {
       "name": "Frosted Gingy",
-      "description": "A gingerbread-inspired drink finished with a sweet, frosted topping."
-    }
+      "description": "A gingerbread-inspired drink finished with a sweet, white chocolate frosted topping."
+    },
+    {"name": "Mapple Butter Magic",
+      "description": "A maple infused latte with smooth espresso, topped with a maple cloud"}
   ],
   "syrups": [
     "Banana",
@@ -28,7 +30,9 @@
     "Salted Caramel",
     "Toasted Marshmallow",
     "Sugar Cookie",
-    "White Chocolate Peppermint"
+    "White Chocolate Peppermint",
+    "Honey",
+    "Maple"
   ],
   "milks": [
     "Whole",
