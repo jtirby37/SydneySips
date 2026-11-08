@@ -1,11 +1,26 @@
 {
-  "phone": "+19194824064",
+  "phone": "+19198188306",
   "specials": [
-    "Teddy Graham Latte",
-    "Sugar Cookie Bliss",
-    "Gingerbread Dreams Latte",
-    "Peppermint Cloud Latte",
-    "Frosted Gingy"
+    {
+      "name": "Teddy Graham Latte",
+      "description": "A cozy latte inspired by teddy grahams: honey-graham sweetness with smooth espresso and milk."
+    },
+    {
+      "name": "Sugar Cookie Bliss",
+      "description": "Sweet sugar cookie flavor with espresso and milk, like a warm cookie in a cup."
+    },
+    {
+      "name": "Gingerbread Dreams Latte",
+      "description": "A spiced gingerbread latte with warm ginger and cinnamon notes."
+    },
+    {
+      "name": "Peppermint Cloud Latte",
+      "description": "Cool peppermint with espresso and milk, topped with a fluffy cloud of foam."
+    },
+    {
+      "name": "Frosted Gingy",
+      "description": "A gingerbread-inspired drink finished with a sweet, frosted topping."
+    }
   ],
   "syrups": [
     "Banana",
@@ -38,5 +53,10 @@
         "reward": "Free drink"
       }
     ]
-  }
+  },
+  "foams": [
+    "Vanilla",
+    "Salted Caramel",
+    "Sugar Cookie"
+  ]
 }
