@@ -1,5 +1,5 @@
 {
-  "phone": "+19194824064",
+  "phone": "+19198188306",
   "specials": [
     "Teddy Graham Latte",
     "Sugar Cookie Bliss",
@@ -14,5 +14,29 @@
     "Toasted Marshmallow",
     "Sugar Cookie",
     "White Chocolate Peppermint"
-  ]
+  ],
+  "milks": [
+    "Whole",
+    "2%",
+    "Skim",
+    "Oat",
+    "Almond"
+  ],
+  "sauces": [
+    "Vanilla",
+    "Caramel"
+  ],
+  "rewards": {
+    "perDrink": 1,
+    "tiers": [
+      {
+        "points": 5,
+        "reward": "Free extra syrup or sauce"
+      },
+      {
+        "points": 10,
+        "reward": "Free drink"
+      }
+    ]
+  }
 }
